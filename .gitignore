@@ -1,0 +1,9 @@
+# Dataset — too large for GitHub and covered by Kaggle licence
+data/
+*.csv
+*.xlsx
+*.xls
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
